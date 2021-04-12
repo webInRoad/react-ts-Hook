@@ -1,5 +1,5 @@
 import "./styles.css";
-import EffectExcample from "./effect";
+import EffectExcample from "./ref/effect";
 export default function App() {
   return (
     <div className="App">

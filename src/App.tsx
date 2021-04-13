@@ -6,7 +6,7 @@ import './styles.css'
 // import LinkButton from './ref/differenceFix1and2'
 // import LinkButton from './ref/useRefAndCreateRef'
 // import DomUseRef from './ref/domUseRef'
-import ChildComponentRef from './ref/childComponentRef'
+import ChildComponentRef from './ref/childComponentRef2'
 export default function App() {
 	return (
 		<div className="App">

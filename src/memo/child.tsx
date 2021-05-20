@@ -1,6 +1,4 @@
-import React from 'react'
-
 export default function Child(props: any) {
-	console.info(2222)
-	return <div>2323</div>
+	console.info('子组件渲染了')
+	return <div>我是子组件</div>
 }
